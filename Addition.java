@@ -7,5 +7,6 @@ class Addition
 		n2=20;
 		sum=num1+num2;
 		System.out.println("The Sum of Two Numbers is : +"Sum);
+		System.out.println("The given Number value to Num1 is :+"Num1);
 	}
 }
