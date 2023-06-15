@@ -2,11 +2,11 @@ class Addition
 {
 	public void static main(String [] args)
 	{
-		int num1,num2,sum;
+		int n1,n2,sumOf;
 		n1=10;
 		n2=20;
-		sum=num1+num2;
-		System.out.println("The Sum of Two Numbers is : +"Sum);
-		System.out.println("The given Number value to Num1 is :+"Num1);
+		sumOf=num1+num2;
+		System.out.println("The Sum of Two Numbers is : +"sumOf);
+		System.out.println("The given Number value to Num1 is :+"n1);
 	}
 }
