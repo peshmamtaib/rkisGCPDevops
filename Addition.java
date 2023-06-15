@@ -8,5 +8,6 @@ class Addition
 		sumOf=num1+num2;
 		System.out.println("The Sum of Two Numbers is : +"sumOf);
 		System.out.println("The given Number value to Num1 is :+"n1);
+		System.out.println("Hello all, Thank You");
 	}
 }
