@@ -10,5 +10,7 @@ class Addition
 		System.out.println("The given Number value to Num1 is :+"n1);
 		System.out.println("Hello all, Thank You");
 		 System.out.println("This is Commit1");
+		 System.out.println("This is Commit2");
+
 	}
 }
